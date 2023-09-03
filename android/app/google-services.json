@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "28735494955",
+    "project_id": "intellectusshoop-90f04",
+    "storage_bucket": "intellectusshoop-90f04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28735494955:android:4663bb239642904b53836e",
+        "android_client_info": {
+          "package_name": "com.intellectus.intellectus_shoop_trader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28735494955-o8v42055e0b19tmfemtkthd189ghpund.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intellectus.intellectus_shoop_trader",
+            "certificate_hash": "cb708f167e1c90015745a89d0a934dd3be303785"
+          }
+        },
+        {
+          "client_id": "28735494955-1qbokggtq5pgsgbeidnreqe2p9372iqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbp6zIewYyY_9OkOFnY3GdutwunXiuy3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28735494955-1qbokggtq5pgsgbeidnreqe2p9372iqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
